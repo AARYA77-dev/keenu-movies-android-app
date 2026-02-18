@@ -13,7 +13,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "white",
+        "backgroundColor": "#ffffff",
         "foregroundImage": "./assets/images/logo.png"
       },
       "edgeToEdgeEnabled": true,
@@ -46,7 +46,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "64ff9617-dd82-4a9a-968c-cead3666bf33"
+        "projectId": "973b85e7-da9f-46f2-a522-f793d39f9f81"
       }
     },
     "owner": "keenu"
